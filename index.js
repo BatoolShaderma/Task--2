@@ -1,7 +1,7 @@
 let students=[];
 function createStudent(name,age,mark){
 students.push({name,age,mark});
-    return students;
+    
 }
 createStudent("Ahmad", 19 ,80);
 createStudent("Noor",20 ,70);
